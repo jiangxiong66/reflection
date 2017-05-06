@@ -10,6 +10,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+when we want to develop more than one version, create a new brunch could make the project more organized
 
 How do the diagrams help you visualize the branch structure?
 
